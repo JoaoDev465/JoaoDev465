@@ -14,7 +14,7 @@ I love sharing my knowledge, and soon I'll start a **YouTube channel** to showca
 <img
 alt="Total Stars"
 title="GitHub Stars"
-src="![Stars](https://img.shields.io/github/stars/J0aoDev465?style=for-the-badge&label=Stars&logo=github&logoColor=white)"
+ src="https://custom-icon-badges.demolab.com/github/stars/JoaoDev465?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
 />
 </a>
 <a href="https://github.com/JoaoDev465?tab=followers">
