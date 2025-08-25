@@ -42,7 +42,7 @@ I love sharing my knowledge here, and soon I'll start a **YouTube channel** to s
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics 
 
 <p>
   <img 
