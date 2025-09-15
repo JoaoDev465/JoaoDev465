@@ -63,5 +63,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDev465&t
 
 ### 📁 Featured Projects
 
-- [**TodoList**](https://github.com/JoaoDev465/Todo-List) – Back-end project with .NET, clean architecture, and tests.
-- [**CleanDDD.Example**](https://github.com/JoaoDev465/CleanDDD.Example) – Example of DDD structure with .NET.
+- [**TodoList**](https://red-sea-004a3cd1e.2.azurestaticapps.net/register) – full-Stack project with .NET, clean architecture, and tests also blazor in front-end
+
