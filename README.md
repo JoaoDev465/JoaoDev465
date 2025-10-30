@@ -58,10 +58,3 @@ height="200"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDev465&theme=tokyonight&layout=compact&custom_title=Top+Technologies&langs_count=9"
 />
 </p>
-
----
-
-### 📁 Featured Projects
-
-- [**TodoList**](https://red-sea-004a3cd1e.2.azurestaticapps.net/register) – full-Stack project with .NET, clean architecture, and tests also blazor in front-end
-
