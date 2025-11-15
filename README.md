@@ -26,7 +26,6 @@ I'm a problem-solver with strong adaptability, always ready to learn and work wi
 <img align="left" alt="postman" title="postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
 <img align="left" alt="github" title="github" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="left" alt="swagger" title="swagger" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
-<img align="left" alt="terminal" title="terminal" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terminal/terminal-original.svg"/>
 <img align="left" alt="rider" title="rider" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"/>
 
 
