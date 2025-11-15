@@ -3,9 +3,8 @@
 **`Back-End Developer`**
 
 Hi! I'm João Marcelo, a **Back-End Developer** working daily with **.NET C#**.
-Currently, I'm studying **Systems Analysis and Development** at **Uninter**.
-I love sharing my knowledge, and soon I'll start a **YouTube channel** to showcase my technology discoveries.
-
+Currently, I'm studying **Computer Science** at **Uninter**.
+I'm a problem-solver with strong adaptability, always ready to learn and work with new technologies.
 ---
 
 ### 🌐 Connect with me
@@ -35,7 +34,8 @@ src="https://custom-icon-badges.demolab.com/github/followers/JoaoDev465?color=23
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
+<img align="left" alt="JWT" title="JWT" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/jwt-decode@4.0.0/build/cjs/index.min.js"/>
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/react@19.2.0/jsx-runtime.min.js"/>
 <br/><br/>
 
 ---
