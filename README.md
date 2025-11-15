@@ -5,24 +5,6 @@
 Hi! I'm João Marcelo, a **Back-End Developer** working daily with **.NET C#**.
 Currently, I'm studying **Computer Science** at **Uninter**.
 I'm a problem-solver with strong adaptability, always ready to learn and work with new technologies.
----
-
-### 🌐 Connect with me
-
-<a href="https://github.com/JoaoDev465?tab=repositories&sort=stargazers">
-<img
-alt="Total Stars"
-title="GitHub Stars"
- src="https://custom-icon-badges.demolab.com/github/stars/JoaoDev465?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-/>
-</a>
-<a href="https://github.com/JoaoDev465?tab=followers">
-<img
-alt="Followers"
-title="Follow me on GitHub"
-src="https://custom-icon-badges.demolab.com/github/followers/JoaoDev465?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-/>
-</a>
 
 ---
 
@@ -35,12 +17,21 @@ src="https://custom-icon-badges.demolab.com/github/followers/JoaoDev465?color=23
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/>
+<img align="left" alt="java" title="java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="sqlite" title="sqlite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+<img align="left" alt="azure" title="azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+<img align="left" alt="linux" title="linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="npm" title="npm" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg"/>
+<img align="left" alt="vercel" title="vercel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/>
+<img align="left" alt="postman" title="postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+<img align="left" alt="github" title="github" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img align="left" alt="swagger" title="swagger" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
+<img align="left" alt="terminal" title="terminal" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terminal/terminal-original.svg"/>
+<img align="left" alt="rider" title="rider" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"/>
+
+
+
+
 <br/><br/>
 
 ---
