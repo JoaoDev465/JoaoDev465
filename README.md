@@ -1,10 +1,23 @@
 # João Marcelo
 
-**`Back-End Developer`**
+**`Back-End Developer`** **`Devops`**
 
 Hi! I'm João Marcelo, a **Back-End Developer** working daily with **.NET C#**.
 Currently, I'm studying **Computer Science** at **Uninter**.
 I'm a problem-solver with strong adaptability, always ready to learn and work with new technologies.
+
+My principal Stacks it's **Back-End** and **Devops**.
+I have solid Knowlogment in **Architecture**, how example **DDD** and **Clean Architecture**.
+Alson i can resalt my good pratices how **Clean Code**.
+
+I've been studying how work does the internet , Ip , Adress, Domains.
+for this i Lovely for Infraestructures, so I've been Improving My Knowlodgments in **Docker** and **Azure**.
+
+# Currently i can Put on application Online
+# Safe Enviroments and Read Logs to Identify Problems
+# Run Containers with docker
+# build images
+# Management Cost with Inteligences.
 
 ---
 
