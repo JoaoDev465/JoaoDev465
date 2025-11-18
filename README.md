@@ -13,10 +13,14 @@ Alson i can resalt my good pratices how **Clean Code**.
 I've been studying how work does the internet , Ip , Adress, Domains.
 for this i Lovely for Infraestructures, so I've been Improving My Knowlodgments in **Docker** and **Azure**.
 
-**Currently i can Put on application Online**
-**Safe Enviroments and Read Logs to Identify Problems**
-**Run Containers with docker**
-**build images**
+**Currently i can Put on application Online.**
+
+**Safe Enviroments and Read Logs to Identify Problems.**
+
+**Run Containers with docker.**
+
+**build images.**
+
 **Management Cost with Inteligences.**
 
 ---
